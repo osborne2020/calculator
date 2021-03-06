@@ -1,0 +1,10 @@
+body {
+    background-color: lightpink;
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+}
+
+#header {
+    text-decoration-color: lightseagreen;
+}
